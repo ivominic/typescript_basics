@@ -1,6 +1,6 @@
 # typescript_basics
 
-This readme file is going to cover all steps, with descriptions, that I took during testing Typescript functionalities.
+This readme file is going to cover all steps, with descriptions, taken while testing Typescript functionalities.
 
 ## Setting up typescript environment
 
