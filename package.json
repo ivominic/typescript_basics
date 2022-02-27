@@ -1,0 +1,23 @@
+{
+  "name": "typescript_basics",
+  "version": "1.0.0",
+  "description": "Typescript basic functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivominic/typescript_basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivominic/typescript_basics/issues"
+  },
+  "homepage": "https://github.com/ivominic/typescript_basics#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
